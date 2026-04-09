@@ -1,7 +1,7 @@
 # **Individual Data Science Project**
 
 ## **INTRODUCTION**
-Why was the project undertaken?\
+This project was undertaken to investigate the kind of logistics that a company may apply to their customer data to finetune their marketing or improve products. 
 Research Questions:
 * Are customers on mobile more likely to leave a review/longer review than web customers?
 * Are certain subcategories more popular with specific age groups?
@@ -18,6 +18,10 @@ Tools:
 
 ## **RESULTS**
 What answer was found to the research questions; what did the study find?\
+*Are customers on mobile more likely to leave a review/longer review than web customers?*
+
+
+*Are certain subcategories more popular with specific age groups?*
 Was the tested hypothesis true?
 ## **DISCUSSION**
 What might the answer imply and why does it matter?\
