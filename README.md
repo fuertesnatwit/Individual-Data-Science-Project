@@ -7,7 +7,7 @@ Research Questions:
 * Are certain subcategories more popular with specific age groups?
 
 ## **SELECTION OF DATA**
-This dataset came from kaggle. For one question, entries with a null subcategory column ('Subcategory1') were dropped from the set.\
+This dataset came from kaggle and represents the customer reviews of clothing for a ecommerce clothing business. The set includes appromximately 23000 records for women's clothing reviews. For one question, entries with a null subcategory column ('Subcategory1') were dropped from the set. In the other, entries with a null review text section were dropped from the set.\
 Data Preview:\
 <img width="1128" height="225" alt="Screenshot 2026-03-25 at 3 10 57 PM" src="https://github.com/user-attachments/assets/294b4e04-73dd-43a4-8c7f-a695fb05a845" />
 
@@ -20,6 +20,9 @@ Tools:
 What answer was found to the research questions; what did the study find?\
 *Are customers on mobile more likely to leave a review/longer review than web customers?*
 
+<img width="640" height="480" alt="ReviewLengthDistribution" src="https://github.com/user-attachments/assets/1cd865d6-b43a-4a87-b152-9951dca66508" />
+
+The distribution of review length was nearly identical between the two channel types. This does not lend itself to any difference between the two groups in terms of behavior.  
 
 *Are certain subcategories more popular with specific age groups?*
 Was the tested hypothesis true?
