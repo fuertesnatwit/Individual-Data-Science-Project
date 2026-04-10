@@ -29,9 +29,11 @@ What answer was found to the research questions; what did the study find?\
 
 The distribution of review length was nearly identical between the two channel types. This does not lend itself to any difference between the two groups in terms of behavior.
 
-For further examintion, a two-tailed t-test was performed with the data. My null hypothesis being that the mean review length of web users was equal to the mean review length of the mobile users and my alternative hypothesis being that the mean review length of web users was not equal to the mean review length of mobile users. This can be represented using the format:
+For further examintion, a two-tailed t-test with a confidence level of α = 0.05 was performed with the data. The null hypothesis is that the mean review length of web users was equal to the mean review length of the mobile users. The alternative hypothesis is that the mean review length of web users was not equal to the mean review length of mobile users. This can be represented using the format:
 
 H<sub>0</sub>: 309.08214 = μ and H<sub>a</sub> : 309.08214 ≠ μ
+
+After computing, the absolute value of the test statistic is 0.5363869120270773 and the critical value for the t-test is 1.9601451595523012. Since the test statistic is less than the critical value, the null hypothesis failed to be rejected. In ohter words, there is no evidence that there is a significant statistical difference between the mean mobile review length and the web mean review length. 
 
 *Are certain subcategories more popular with specific age groups?*
 Was the tested hypothesis true?
