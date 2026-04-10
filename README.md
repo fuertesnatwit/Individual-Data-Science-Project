@@ -36,6 +36,10 @@ H<sub>0</sub>: 309.08214 = μ and H<sub>a</sub> : 309.08214 ≠ μ
 After computing, the absolute value of the test statistic is 0.5363869120270773 and the critical value for the t-test is 1.9601451595523012. Since the test statistic is less than the critical value, the null hypothesis failed to be rejected. In ohter words, there is no evidence that there is a significant statistical difference between the mean mobile review length and the web mean review length. 
 
 *Are certain subcategories more popular with specific age groups?*
+
+<img width="547" height="481" alt="plot" src="https://github.com/user-attachments/assets/70c7c6eb-79b9-4a3b-b5ea-0e645a0249e6" />
+
+
 Was the tested hypothesis true?
 ## **DISCUSSION**
 What might the answer imply and why does it matter?\
