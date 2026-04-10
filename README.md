@@ -29,7 +29,7 @@ The distribution of review length was nearly identical between the two channel t
 
 For further examintion, a two-tailed t-test was performed with the data. My null hypothesis being that the mean review length of web users was equal to the mean review length of the mobile users and my alternative hypothesis being that the mean review length of web users was not equal to the mean review length of mobile users. This can be represented using the format:
 
-H<sub>0</sub>: 309.08214 = μ and H<sub>a</sub> : 309.08213 ≠ μ
+H<sub>0</sub>: 309.08214 = μ and H<sub>a</sub> : 309.08214 ≠ μ
 
 *Are certain subcategories more popular with specific age groups?*
 Was the tested hypothesis true?
