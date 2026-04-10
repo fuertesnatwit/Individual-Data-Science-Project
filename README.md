@@ -7,7 +7,9 @@ Research Questions:
 * Are certain subcategories more popular with specific age groups?
 
 ## **SELECTION OF DATA**
-This dataset came from kaggle and represents the customer reviews of clothing for a ecommerce clothing business. The set includes appromximately 23000 records for women's clothing reviews. For one question, entries with a null subcategory column ('Subcategory1') were dropped from the set. In the other, entries with a null review text section were dropped from the set.\
+This dataset came from kaggle and represents the customer reviews of clothing for a ecommerce clothing business. The set includes appromximately 23000 records for women's clothing reviews. Key features used to answer our research questions were: Customer Age, Rating, Review Text, and Subcategory1.
+
+For one question, entries with a null subcategory column ('Subcategory1') were dropped from the set. In the other, entries with a null Review Text column were dropped from the set.\
 Data Preview:\
 <img width="1128" height="225" alt="Screenshot 2026-03-25 at 3 10 57 PM" src="https://github.com/user-attachments/assets/294b4e04-73dd-43a4-8c7f-a695fb05a845" />
 
