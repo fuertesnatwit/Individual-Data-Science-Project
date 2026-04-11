@@ -18,8 +18,8 @@ Data Preview:\
 Tools:
 * NumPy, Pandas, Matplotlib, Scikit
 
-Methods:
-* T-Test, Linear Regression
+Method:
+* T-Test
 
 ## **RESULTS**
 What answer was found to the research questions; what did the study find?\
@@ -39,10 +39,12 @@ After computing, the absolute value of the test statistic is 0.5363869120270773 
 
 <img width="547" height="481" alt="plot" src="https://github.com/user-attachments/assets/70c7c6eb-79b9-4a3b-b5ea-0e645a0249e6" />
 
+The overall proportion of subcategories within all the reviews does not change significantly between age groups
 
-Was the tested hypothesis true?
 ## **DISCUSSION**
 What might the answer imply and why does it matter?\
+
+The lack of evidence to show a difference between review length for mobile and web users could suggest that the current UI in both formats are equally conducive to leaving a review. 
 How does it fit in with what other researchers have found?\
 What are the perspectives for future research?
 
