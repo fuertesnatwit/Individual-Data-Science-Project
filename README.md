@@ -1,13 +1,14 @@
 # **Individual Data Science Project**
 
 ## **INTRODUCTION**
-This project was undertaken to investigate the kind of logistics that a company may apply to their customer data to finetune their marketing or improve products. 
+This project was undertaken to investigate the kind of logistics that a company may apply to their customer data to finetune their marketing or improve their storefront. 
+
 Research Questions:
 * Are customers on mobile more likely to leave a review/longer review than web customers?
 * Are certain subcategories more popular with specific age groups?
 
 ## **SELECTION OF DATA**
-This dataset came from kaggle and represents the customer reviews of clothing for a ecommerce clothing business. The set includes appromximately 23000 records for women's clothing reviews. Key features used to answer our research questions were: Customer Age, Rating, Review Text, and Subcategory1.
+This dataset came from kaggle and represents the customer reviews of clothing for a ecommerce clothing business. The set includes appromximately 23000 records for women's clothing reviews. Key features used to answer the research questions were: Customer Age, Review Text, Channel, and Subcategory1.
 
 For one question, entries with a null subcategory column ('Subcategory1') were dropped from the set. In the other, entries with a null Review Text column were dropped from the set.\
 Data Preview:\
@@ -22,7 +23,6 @@ Method:
 * T-Test
 
 ## **RESULTS**
-What answer was found to the research questions; what did the study find?\
 *Are customers on mobile more likely to leave a review/longer review than web customers?*
 
 <img width="640" height="480" alt="ReviewLengthDistribution" src="https://github.com/user-attachments/assets/1cd865d6-b43a-4a87-b152-9951dca66508" />
@@ -39,13 +39,18 @@ After computing, the absolute value of the test statistic is 0.5363869120270773 
 
 <img width="547" height="481" alt="plot" src="https://github.com/user-attachments/assets/70c7c6eb-79b9-4a3b-b5ea-0e645a0249e6" />
 
-The overall proportion of subcategories within all the reviews does not change significantly between age groups
+The overall proportion of subcategories within all the reviews does not change significantly between age groups. While the exact percentage varies slightly, for example the 36-45 group having a slightly smaller than average portion of jackets while 65+ had a slightly higher portion, each of the age groups follow the same order in terms of how much of the total reviews that category had. This implies that there is no variance in popularity of a subcategory within the different age groups.  
 
 ## **DISCUSSION**
-What might the answer imply and why does it matter?\
+What might the answer imply and why does it matter?
 
-The lack of evidence to show a difference between review length for mobile and web users could suggest that the current UI in both formats are equally conducive to leaving a review. 
-How does it fit in with what other researchers have found?\
+The lack of evidence to show a difference between review length for mobile and web users could suggest that the current UI in both formats are equally conducive to leaving a review. This is important to gauge because a frustrating UI to navigate could steer customers away from buying off the online shop. 
+
+The lack in variance in which categories are popular with certain age groups is helpful to determining the kind of marketing the business would have to do. If the business was to put out personalized ads or develop a recommended purchases tool for their shop using customer data, they would not have to strongly consider age as a factor in choosing which products to promote. 
+
+How does it fit in with what other researchers have found?
+
 What are the perspectives for future research?
+Further research may delve into the actual ratings given by customers and seeing if there are trends within the categories of clothing. There is also an interesting angle of finding common keywords used in the reviews and seeing if there's a correlation between the customer then recommending the product. 
 
 ## **SUMMARY**
